@@ -7,7 +7,7 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "my-emdash-site","database_id": "822a9987-09fa-4f73-a1e7-7c6d75641f74",
+			"database_name": "my-emdash-site","database_id": "528a5185-bba3-49ef-8e56-a8993751c1dc",
 		},
 	],
 	"r2_buckets": [
